@@ -2,7 +2,7 @@
 * @Author: 杨晨浩
 * @Date:   2018-01-24 10:19:51
 * @Last Modified by:   杨晨浩
-* @Last Modified time: 2018-01-25 01:02:55
+* @Last Modified time: 2018-01-31 16:54:45
 */
 .Mobile_phone{
 	width: 355px;
@@ -134,7 +134,7 @@
 .The_shell_back_2{
 	width: 338px;
 	height: 635px;
-	background: #D4C2A8;
+	background-image: -webkit-linear-gradient(top,#E1D1B7,#A99980);
 	border-radius: 20px;
 	margin-top: 31px;
 	border: 1px solid #AEA391;
